@@ -1,0 +1,41 @@
+<resources>
+    <string name="DarkSkyURL">https://api.darksky.net/forecast/ab248a6d313dfa9df4a926f56c2c5156/</string>
+
+
+    <string-array name="Cities">
+        <item>Greenville</item>
+        <item>Philly</item>
+        <item>Clemson</item>
+        <item>New York City</item>
+        <item>Chicago</item>
+        <item>Charleston</item>
+        <item>Las Vegas</item>
+        <item>Seattle</item>
+        <item>San Francisco</item>
+        <item>New Orleans</item>
+        <item>Palm Springs, CA</item>
+        <item>Honolulu, Hawaii</item>
+        <item>Miami Beach</item>
+        <item>Boston</item>
+        <item>Orlando</item>
+    </string-array>
+
+    <string-array name="LongLat">
+        <item>34.8526,-82.3940</item>
+        <item>39.9526,-75.1652</item>
+        <item>34.6834,-82.8374</item>
+        <item>40.7128,-74.0060</item>
+        <item>41.8781,-87.6298</item>
+        <item>32.7765,-79.9311</item>
+        <item>36.1699,-115.1398</item>
+        <item>47.6062,-122.3321</item>
+        <item>37.7749,-122.4194</item>
+        <item>29.9511,-90.0715</item>
+        <item>33.8303,-116.5453</item>
+        <item>21.3069,-157.8583</item>
+        <item>25.7907,-80.1300</item>
+        <item>42.3601,-71.0589</item>
+        <item>28.5383,-81.3792</item>
+    </string-array>
+
+</resources>
